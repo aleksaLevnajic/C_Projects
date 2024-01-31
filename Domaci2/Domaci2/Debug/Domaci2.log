@@ -1,0 +1,4 @@
+﻿  Domaci2.c
+c:\users\alek\desktop\aleksa c\domaci2\domaci2\domaci2.c(41): warning C4013: 'system' undefined; assuming extern returning int
+  Domaci2.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\Domaci2\Debug\Domaci2.exe
+  Domaci2.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\Domaci2\Debug\Domaci2.pdb (Full PDB)
