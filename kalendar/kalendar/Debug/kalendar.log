@@ -1,0 +1,4 @@
+﻿  kalendar.c
+c:\users\alek\desktop\aleksa c\kalendar\kalendar\kalendar.c(110): warning C4013: 'system' undefined; assuming extern returning int
+  kalendar.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\kalendar\Debug\kalendar.exe
+  kalendar.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\kalendar\Debug\kalendar.pdb (Full PDB)
