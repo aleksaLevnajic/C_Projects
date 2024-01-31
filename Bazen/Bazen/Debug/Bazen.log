@@ -1,0 +1,5 @@
+﻿  Bazen.c
+c:\users\alek\desktop\aleksa c\bazen\bazen\bazen.c(88): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\alek\desktop\aleksa c\bazen\bazen\bazen.c(9): warning C4101: 'OstatakMin': unreferenced local variable
+  Bazen.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\Bazen\Debug\Bazen.exe
+  Bazen.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\Bazen\Debug\Bazen.pdb (Full PDB)
