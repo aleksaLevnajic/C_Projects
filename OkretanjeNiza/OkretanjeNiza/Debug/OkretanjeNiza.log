@@ -1,0 +1,4 @@
+﻿  OkretanjeNiza.c
+c:\users\alek\desktop\aleksa c\okretanjeniza\okretanjeniza\okretanjeniza.c(53): warning C4013: 'system' undefined; assuming extern returning int
+  OkretanjeNiza.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\OkretanjeNiza\Debug\OkretanjeNiza.exe
+  OkretanjeNiza.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\OkretanjeNiza\Debug\OkretanjeNiza.pdb (Full PDB)

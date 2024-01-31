@@ -1,0 +1,4 @@
+﻿  SortiranjeNiza.c
+c:\users\alek\desktop\aleksa c\sortiranjeniza\sortiranjeniza\sortiranjeniza.c(57): warning C4013: 'system' undefined; assuming extern returning int
+  SortiranjeNiza.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\SortiranjeNiza\Debug\SortiranjeNiza.exe
+  SortiranjeNiza.vcxproj -> C:\Users\Alek\Desktop\Aleksa C\SortiranjeNiza\Debug\SortiranjeNiza.pdb (Full PDB)
